@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>rsc/head.jpg</file>
+        <file>rsc/style.qss</file>
+        <file>rsc/2.jpeg</file>
+        <file>rsc/1.jpeg</file>
+    </qresource>
+</RCC>
